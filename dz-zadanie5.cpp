@@ -34,7 +34,7 @@ int main() {
                 op = &multiply;
                 break;
             case '/':
-                op = ÷
+                op = &divide;
                 break;
             default:
                 if(operationSign != ' ')
